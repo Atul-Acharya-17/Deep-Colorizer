@@ -1,0 +1,21 @@
+
+h1{
+    margin-top: -200px;
+    font-size:100px;
+    color:#ffffff;
+}
+
+.webgl{
+    mix-blend-mode: exclusion;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+}
+
+.container{
+    display:grid;
+    place-items: center;
+    height: 100vh;
+    background-color: rgb(24, 24, 24);
+}
