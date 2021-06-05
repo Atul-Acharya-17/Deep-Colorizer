@@ -17,5 +17,6 @@ h1{
     display:grid;
     place-items: center;
     height: 100vh;
-    background-color: rgb(24, 24, 24);
+    background-image: linear-gradient(to bottom right, rgb(24, 24, 24), rgb(64, 64, 64));
+
 }

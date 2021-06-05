@@ -115,7 +115,7 @@ class Decoration extends Component {
     render() {
         return (
             <div>
-                <div class="container">
+                <div className="container">
                     <h1>DEEP COLORIZER</h1>
                 </div>
                 <div ref={ref => (this.mount = ref)} class="webgl"/>

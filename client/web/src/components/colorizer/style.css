@@ -1,0 +1,51 @@
+.colorizer{
+    display:grid;
+    background-color: 	#FFFAFA;
+    background-image: linear-gradient(to bottom right, #FFFAFA, #CCCCCC);
+
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+}
+
+label {
+    margin:auto;
+    border: 1px solid #ccc;
+    width: 15%;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-color: rgb(24, 24, 24);
+    text-align: center;
+}
+
+input[type="file"] {
+    display: None;
+}
+
+text{
+    color: #FFFAFA;
+}
+
+img{
+    margin:auto;
+}
+button{
+    margin:auto;
+    border: 1px solid #ccc;
+    width: 16.5%;
+    display: inline-block;
+    padding: 7px 12px;
+    cursor: pointer;
+    margin-bottom: 1%;
+    background-color: rgb(24, 24, 24);
+    text-align: center;
+}
+
+.predict{
+    font-size: 20px;
+}
