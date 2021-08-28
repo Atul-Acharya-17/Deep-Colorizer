@@ -52,5 +52,3 @@ pip install -r requirements.txt
 python __main__.py
 ```
 
-## Generative Adversarial Networks
-
