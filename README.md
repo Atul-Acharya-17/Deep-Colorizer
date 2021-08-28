@@ -20,8 +20,9 @@ Deep Colorizer is an application that is built with React and Flask that uses a 
 
 ## Demo
 
-![Demo](https://github.com/Atul-Acharya-17/Deep-Colorizer/blob/master/assets/demo.gif)
-
+<p align="center">
+<img src="https://github.com/Atul-Acharya-17/Deep-Colorizer/blob/master/assets/demo.gif" alt="animated">
+</p>
 
 ## Getting Started
 
